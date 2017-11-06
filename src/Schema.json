@@ -105,8 +105,8 @@
         "description": "Forwarding institution. country code"
     },
     "22": {
-        "type": "an",
-        "length": "4",
+        "type": "n",
+        "length": "3",
         "description": "Point of service entry mode"
     },
     "23": {
