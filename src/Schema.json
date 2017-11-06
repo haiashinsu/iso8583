@@ -241,7 +241,7 @@
     },
     "52": {
         "type": "b",
-        "length": "8",
+        "length": "64",
         "description": "Personal identification number data"
     },
     "53": {
